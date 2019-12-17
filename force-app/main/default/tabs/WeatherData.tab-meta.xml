@@ -2,6 +2,5 @@
 <CustomTab xmlns="http://soap.sforce.com/2006/04/metadata">
     <auraComponent>weatherComponent</auraComponent>
     <label>WeatherData</label>
-    <mobileReady>false</mobileReady>
     <motif>Custom60: Umbrella</motif>
 </CustomTab>
